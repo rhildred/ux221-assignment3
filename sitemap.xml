@@ -1,0 +1,28 @@
+<?xml ?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/cabernet-merlot/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/50-point-lcbo/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/rhildred/
+        </loc>
+    </url>
+</urlset>
