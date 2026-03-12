@@ -1,1 +1,4 @@
 [20-Jan-2026 00:11:48 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221Lab2-take2/.wordpress/wp-includes/pluggable.php on line 1721
+[12-Mar-2026 08:45:08 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/ux221-assignment3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[12-Mar-2026 08:56:07 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/ux221-assignment3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[12-Mar-2026 09:11:38 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/ux221-assignment3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
